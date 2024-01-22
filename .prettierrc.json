@@ -1,6 +1,14 @@
 {
-  "trailingComma": "es5",
-  "tabWidth": 4,
-  "semi": false,
-  "singleQuote": true
+  "overrides": [
+    {
+      "files": "**/*",
+      "options": {
+        "semi": true,
+        "singleQuote": true
+      }
+    }
+  ],
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ]
 }
