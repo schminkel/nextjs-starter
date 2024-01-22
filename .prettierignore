@@ -1,0 +1,6 @@
+*.log
+*.html
+*.ico
+*.svg
+.gitignore
+.prettierignore
