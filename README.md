@@ -12,3 +12,8 @@
 npm install -g npm-check-updates
 ncu --upgrade
 ```
+
+## TODOs
+
+- [ ] Add generic favicon setup
+- [ ] Add dependabot
