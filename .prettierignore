@@ -1,4 +1,6 @@
 *.ico
 *.svg
+*.db
+*.prisma
 .gitignore
 .prettierignore
