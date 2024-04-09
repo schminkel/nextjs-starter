@@ -10,7 +10,8 @@
     "eslint-fix": "eslint . --fix",
     "prettier-check": "prettier --check '**/*'",
     "prettier-format": "prettier --write '**/*'",
-    "check-updates": "ncu"
+    "check-updates": "ncu",
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@prisma/client": "^5",
